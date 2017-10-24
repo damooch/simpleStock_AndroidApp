@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CS3270FinalMariluch</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>My Stocks</item>
+        <item>Search Stock</item>
+        <item>Buy Stock</item>
+        <item>Watchlist</item>
+        <item>Money Management</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
